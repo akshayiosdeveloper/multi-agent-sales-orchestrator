@@ -49,6 +49,8 @@ The project was built to explore:
 ```
 
 ---
+## Demo Video
+https://www.youtube.com/watch?v=W6qPk1-N2oQ
 
 ## Features
 
